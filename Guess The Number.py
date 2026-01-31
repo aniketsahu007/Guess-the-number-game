@@ -2,7 +2,7 @@
 import random
 input_a = int(input("Enter 1st number : "))
 input_b = int(input("Enter 2nd number : "))
-num_list = []
+num_list = []    B
 for i in range(input_a,input_b + 1):
     num_list.append(i)
 random_num = random.choice(num_list)
@@ -53,4 +53,5 @@ if attempt_p1>attempt_p2:
 elif attempt_p2>attempt_p1:
     print("Player 1 won the game")
 elif attempt_p1 == attempt_p2:
+
     print("Its a Draw")
