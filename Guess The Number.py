@@ -11,7 +11,7 @@ player_2 = None
 attempt_p1 = 1
 attempt_p2 = 1
 print("Player 1 :")
-print("Your chance to guess the number ")
+print("Your chance to guess the number ")                      
 while True:
     guesser = int(input(""))
     if guesser<random_num:
@@ -55,4 +55,5 @@ elif attempt_p2>attempt_p1:
 elif attempt_p1 == attempt_p2:
 
     print("Its a Draw")
+
 
