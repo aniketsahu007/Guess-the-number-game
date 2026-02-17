@@ -10,7 +10,7 @@ This project demonstrates core Python programming concepts such as loops, condit
 
 ---
 
-##### Features
+## Features
 
 - User-defined number range
 - Two-player gameplay
@@ -21,7 +21,7 @@ This project demonstrates core Python programming concepts such as loops, condit
 
 ---
 
-##### How the Game Works
+## How the Game Works
 
 1. The user enters a starting and ending number.
 2. A list of numbers is generated within this range.
@@ -84,7 +84,7 @@ you guessed the actual number in 3 attempts
 
 ### Prerequisites
 - Python 3.x installed
-# Jai shree ram
+
 ### Steps
 ```bash
 git clone <repository-url>
